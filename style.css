@@ -69,7 +69,7 @@ ul li::before{
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    background-image: url(T.T.D/EmptyBox.png);
+    background-image: url(https://github.com/Alex-F26/TTD.github.io/blob/master/EmptyBox.png?raw=true);
     background-size: cover;
     background-position: center;
     top: 4px;
@@ -81,7 +81,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(T.T.D/CheckBox.png);
+    background-image: url(https://github.com/Alex-F26/TTD.github.io/blob/master/CheckBox.png?raw=true);
 }
 
 ul li span{
